@@ -1,0 +1,16 @@
+C:\Users\acsankar\source\repos\FriendsGraph\FriendsGraph\bin\Debug\net5.0\FriendsGraph.exe
+C:\Users\acsankar\source\repos\FriendsGraph\FriendsGraph\bin\Debug\net5.0\FriendsGraph.deps.json
+C:\Users\acsankar\source\repos\FriendsGraph\FriendsGraph\bin\Debug\net5.0\FriendsGraph.runtimeconfig.json
+C:\Users\acsankar\source\repos\FriendsGraph\FriendsGraph\bin\Debug\net5.0\FriendsGraph.runtimeconfig.dev.json
+C:\Users\acsankar\source\repos\FriendsGraph\FriendsGraph\bin\Debug\net5.0\FriendsGraph.dll
+C:\Users\acsankar\source\repos\FriendsGraph\FriendsGraph\bin\Debug\net5.0\ref\FriendsGraph.dll
+C:\Users\acsankar\source\repos\FriendsGraph\FriendsGraph\bin\Debug\net5.0\FriendsGraph.pdb
+C:\Users\acsankar\source\repos\FriendsGraph\FriendsGraph\obj\Debug\net5.0\FriendsGraph.csproj.AssemblyReference.cache
+C:\Users\acsankar\source\repos\FriendsGraph\FriendsGraph\obj\Debug\net5.0\FriendsGraph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acsankar\source\repos\FriendsGraph\FriendsGraph\obj\Debug\net5.0\FriendsGraph.AssemblyInfoInputs.cache
+C:\Users\acsankar\source\repos\FriendsGraph\FriendsGraph\obj\Debug\net5.0\FriendsGraph.AssemblyInfo.cs
+C:\Users\acsankar\source\repos\FriendsGraph\FriendsGraph\obj\Debug\net5.0\FriendsGraph.csproj.CoreCompileInputs.cache
+C:\Users\acsankar\source\repos\FriendsGraph\FriendsGraph\obj\Debug\net5.0\FriendsGraph.dll
+C:\Users\acsankar\source\repos\FriendsGraph\FriendsGraph\obj\Debug\net5.0\ref\FriendsGraph.dll
+C:\Users\acsankar\source\repos\FriendsGraph\FriendsGraph\obj\Debug\net5.0\FriendsGraph.pdb
+C:\Users\acsankar\source\repos\FriendsGraph\FriendsGraph\obj\Debug\net5.0\FriendsGraph.genruntimeconfig.cache
